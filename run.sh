@@ -1,1 +1,1 @@
-Hello darkness my old friend
+echo "Hello darkness my old friend"
