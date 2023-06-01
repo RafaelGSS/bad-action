@@ -1,0 +1,7 @@
+name: 'Bad Action'
+description: 'Example of the importance of hashing actions'
+runs:
+  using: "composite"
+  steps:
+    - run: run.sh
+      shell: bash
